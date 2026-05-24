@@ -1,4 +1,4 @@
-# Telco Customer Churn Prediction
+# Customer Churn Project
 
 **Goal:** Predict which customers are likely to churn and estimate the financial benefit of a targeted retention campaign.
 
@@ -27,4 +27,3 @@ Assuming a customer lifetime value of $2,000 and a retention discount of $105 (i
 - `Churn_Prediction.ipynb`: Full analysis and modeling.
 - `requirements.txt`: Required Python packages.
 
-![Executive Summary](executive_summary.png)# customer-chrun
