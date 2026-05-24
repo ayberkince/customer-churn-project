@@ -27,4 +27,4 @@ Assuming a customer lifetime value of $2,000 and a retention discount of $105 (i
 - `Churn_Prediction.ipynb`: Full analysis and modeling.
 - `requirements.txt`: Required Python packages.
 
-![Executive Summary](executive_summary.png)
+![Executive Summary](executive_summary.png)# customer-chrun
