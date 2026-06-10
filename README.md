@@ -21,7 +21,7 @@ The Telco Customer Churn dataset from Kaggle contains information about 7,043 cu
 3. **Monthly charges** higher for churners, suggesting price sensitivity.
 
 ## Business Impact
-Assuming a customer lifetime value of $2,000 and a retention discount of $105 (including contact cost), the model-driven targeting yields an estimated **incremental profit of $X,XXX** over random targeting on the test set. By focusing on the top 30% riskiest customers, the company could capture >70% of churners while minimizing wasted incentives.
+Assuming a customer lifetime value of $2,000 and a retention discount of $105 (including contact cost), the model-driven targeting yields an estimation over random targeting on the test set. By focusing on the top 30% riskiest customers, the company could capture >70% of churners while minimizing wasted incentives.
 
 ## Files
 - `Churn_Prediction.ipynb`: Full analysis and modeling.
