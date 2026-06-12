@@ -1,12 +1,13 @@
-gender
 SeniorCitizen
-Partner
-Dependents
 tenure
-PhoneService
-PaperlessBilling
 MonthlyCharges
 TotalCharges
+AvgMonthlySpend
+TotalServices
+gender_1
+Partner_1
+Dependents_1
+PhoneService_1
 MultipleLines_No phone service
 MultipleLines_Yes
 InternetService_Fiber optic
@@ -25,6 +26,7 @@ StreamingMovies_No internet service
 StreamingMovies_Yes
 Contract_One year
 Contract_Two year
+PaperlessBilling_1
 PaymentMethod_Credit card (automatic)
 PaymentMethod_Electronic check
 PaymentMethod_Mailed check

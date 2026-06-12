@@ -1,0 +1,74 @@
+{
+  "Logistic Regression": {
+    "cv_auc_mean": 0.844704760079454,
+    "cv_auc_std": 0.013234253459044111,
+    "permutation_top3": [
+      {
+        "feature": "tenure",
+        "importance_mean": 0.15681107752719003
+      },
+      {
+        "feature": "InternetService_Fiber optic",
+        "importance_mean": 0.04181805264925466
+      },
+      {
+        "feature": "Contract_Two year",
+        "importance_mean": 0.034094009145159976
+      }
+    ]
+  },
+  "Random Forest": {
+    "cv_auc_mean": 0.8436314382860708,
+    "cv_auc_std": 0.011346255989370616,
+    "permutation_top3": [
+      {
+        "feature": "tenure",
+        "importance_mean": 0.02850784055387635
+      },
+      {
+        "feature": "Contract_Two year",
+        "importance_mean": 0.027550698803895712
+      },
+      {
+        "feature": "InternetService_Fiber optic",
+        "importance_mean": 0.020936991397349468
+      }
+    ]
+  },
+  "XGBoost": {
+    "cv_auc_mean": 0.8408381630315308,
+    "cv_auc_std": 0.011521400967001516,
+    "permutation_top3": [
+      {
+        "feature": "Contract_Two year",
+        "importance_mean": 0.09086775685241158
+      },
+      {
+        "feature": "tenure",
+        "importance_mean": 0.07819576842594747
+      },
+      {
+        "feature": "Contract_One year",
+        "importance_mean": 0.02270789738820429
+      }
+    ]
+  },
+  "LightGBM": {
+    "cv_auc_mean": 0.8398149381239255,
+    "cv_auc_std": 0.011154564509040567,
+    "permutation_top3": [
+      {
+        "feature": "Contract_Two year",
+        "importance_mean": 0.08956896329019089
+      },
+      {
+        "feature": "tenure",
+        "importance_mean": 0.06943579012632718
+      },
+      {
+        "feature": "Contract_One year",
+        "importance_mean": 0.02116084114805339
+      }
+    ]
+  }
+}
